@@ -21,3 +21,4 @@
 - Because templates is for reusing. Put a hardcoding url makes the template inflexible.
 
 # Question 8
+- Because it helps us to connect models and views easily. And it also helps us to reduce repeating code for similar code in several views. But when you are writing a page that is very unique, then you do not have to use generic views.
